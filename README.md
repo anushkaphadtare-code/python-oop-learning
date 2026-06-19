@@ -24,15 +24,10 @@ A structured repository documenting my journey of learning Object-Oriented Progr
 python-oop/
 │
 ├── 01_classes_and_objects/
-├── 02_inheritance/
-├── 03_encapsulation/
-├── 04_polymorphism/
-├── 05_abstraction/
-├── 06_magic_methods/
-├── 07_decorators/
-├── 08_iterators_and_generators/
-├── 09_async_programming/
-└── 10_ai_learning_platform_project/
+├── 02_Encapsulation/
+├── 03_Inheritance/
+├── 04_Polymorphism/
+├── 05_oop_relationships/
 ```
 
 ## Projects and Exercises
