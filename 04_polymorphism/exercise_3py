@@ -1,0 +1,22 @@
+from abc import ABC, abstractmethod 
+
+class Animal(ABC):
+    
+    @abstractmethod
+    def sound(self):
+        pass
+    
+class Dog(Animal):
+    
+    def sound(self):
+        print("Woo")
+        
+d = Dog()
+d.sound()
+
+#a = Animal() will give an error because abstract classes cannot be instantiated
+# a.sound()
+
+
+
+    
